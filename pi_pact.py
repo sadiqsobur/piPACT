@@ -554,7 +554,7 @@ class Scanner(object):
         # Update control file and scan output file
         with open(self.__control_file, 'w') as f:
             f.write("0")
-        scan_file = Path(f"{scan_prefix}_{datetime.now():%Y%m%dT%H%M%S}.csv")
+        scan_file = Path(f"ScannerOutputData/{scan_prefix}_{datetime.now():%Y%m%dT%H%M%S}.csv")
         # Start advertising
         self.__logger.info(f"Starting beacon scanner with timeout {timeout}.")
         self.__control_file_handle = self.__control_file.open(mode='r+')
