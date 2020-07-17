@@ -8,7 +8,7 @@ advertiser:
   uuid: '6d032924-5aa1-4e9c-8638-48fcf76da6eb' # UUID, major, and minor values to advertise
   major: 1
   minor: 1 
-  tx_power: 1 # Tx power at which to advertise
+  tx_power: 0 # Tx power at which to advertise
   interval: 200 # Interval at which advertise (ms)
 
 # Settings for beacon scanner
