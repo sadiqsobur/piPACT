@@ -15,7 +15,7 @@ advertiser:
 scanner:
   control_file: 'scanner_control' # Control file which stops beacon scanner before timeout
   scan_prefix: 'scan_output_' # Prefix to attach to scan output files
-  timeout: 300 # Scanning timeout (s)
+  timeout: 60 # Scanning timeout (s)
   revisit: 1 # Interval at which to scan (s)
   filters: # Filters
     UUID: 6d032924-5aa1-4e9c-8638-48fcf76da6eb # using UUID to filter data so that the scanner ONLY outputs data from the beacon
