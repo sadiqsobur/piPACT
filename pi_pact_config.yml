@@ -18,7 +18,7 @@ scanner:
   timeout: 60 # Scanning timeout (s)
   revisit: 1 # Interval at which to scan (s)
   filters: # Filters
-    ADDRESS: 48:2c:a0:6c:ed:3c # using UUID to filter data so that the scanner ONLY outputs data from the beacon
+    UUID: 0000fff1-0000-1000-8000-00805f9b34fb # using UUID to filter data so that the scanner ONLY outputs data from the beacon
     
 # Logger configuration
 logger:
