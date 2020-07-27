@@ -2,7 +2,6 @@
 
 Hello reader,
 This is my code work done for BWSI's independent project, piPACT. All source code used for this investigation will be right here in this repository. Methodogoly and instructions for the recreation of this investigation will also be included, probably. Everything here is primarily done in python, while using YAML for configuration.
-A link to my final written report will be included within this README at some point in the future.
 
 Most of my raw data is actually included in this repository for my own convenience.
 
