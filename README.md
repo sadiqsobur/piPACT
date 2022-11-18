@@ -11,7 +11,7 @@ My intent is to test the reliability of BLE (bluetooth low energy) signals withi
 
 Extra info
 ---
-I picked up a minimal install of Raspberry Pi OS for both my machines, and have the required configuration to run them headless. A minimal image of Raspberry Pi OS can be found [here.]("https://www.raspberrypi.org/downloads/raspberry-pi-os/") My ssh setup is default and the only other configuration I've done is purely for development(Vim, Git, etc.) and has no impact on the results themselves.
+I picked up a minimal install of Raspberry Pi OS for both my machines, and have the required configuration to run them headless. My ssh setup is default and the only other configuration I've done is purely for development(Vim, Git, etc.) and has no impact on the results themselves.
 
 Credits
 ---
