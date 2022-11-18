@@ -7,7 +7,7 @@ Most of my raw data is actually included in this repository for my own convenien
 
 Purpose?
 ---
-My intent is to test the reliability of BLE (bluetooth low energy) signals within the close ranges that transmissions and infections will mostly be occuring. For close ranges a certain configuration is required  Currently I am collecting data to approximate the relation between RSSI and distance between the two beacons.
+My intent is to test the reliability of BLE (bluetooth low energy) signals within the close ranges that transmissions and infections will mostly be occuring. For close ranges a certain configuration is required. Currently I am collecting data to approximate the relation between RSSI and distance between the two beacons.
 
 Extra info
 ---
